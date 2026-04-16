@@ -1,4 +1,4 @@
 # SEN (Search Engine)
 ---------------------------------------------
-[DUckDUckGo](https://duckduckgo.com)
+[DuckDuckGo](https://duckduckgo.com)
 ---------------------------------------------
